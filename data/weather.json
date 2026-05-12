@@ -1,46 +1,47 @@
 {
   "coord": {
-    "lon": 139.6917,
-    "lat": 35.6895
+    "lon": 51.4215,
+    "lat": 35.6944
   },
   "weather": [
     {
-      "id": 803,
-      "main": "Clouds",
-      "description": "broken clouds",
-      "icon": "04n"
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 10.64,
-    "feels_like": 9.8,
-    "temp_min": 9.79,
-    "temp_max": 11.47,
-    "pressure": 1021,
-    "humidity": 78,
-    "sea_level": 1021,
-    "grnd_level": 1019
+    "temp": 29.84,
+    "feels_like": 28.04,
+    "temp_min": 29.84,
+    "temp_max": 29.99,
+    "pressure": 1007,
+    "humidity": 9,
+    "sea_level": 1007,
+    "grnd_level": 859
   },
   "visibility": 10000,
   "wind": {
-    "speed": 1.03,
-    "deg": 130
+    "speed": 10.28,
+    "deg": 190,
+    "gust": 15.2
   },
   "clouds": {
-    "all": 75
+    "all": 0
   },
-  "dt": 1773758222,
+  "dt": 1778596082,
   "sys": {
     "type": 2,
-    "id": 268105,
-    "country": "JP",
-    "sunrise": 1773694205,
-    "sunset": 1773737369
+    "id": 47737,
+    "country": "IR",
+    "sunrise": 1778549522,
+    "sunset": 1778599765
   },
-  "timezone": 32400,
-  "id": 1850144,
-  "name": "Tokyo",
+  "timezone": 12600,
+  "id": 112931,
+  "name": "Tehran",
   "cod": 200,
-  "_last_updated_utc": "2026-03-17T14:37:06.801Z"
+  "_last_updated_utc": "2026-05-12T14:28:05.755Z"
 }
