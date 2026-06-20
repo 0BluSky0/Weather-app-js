@@ -25,12 +25,12 @@
   "visibility": 10000,
   "wind": {
     "speed": 2.68,
-    "deg": 340
+    "deg": 360
   },
   "clouds": {
     "all": 0
   },
-  "dt": 1781989851,
+  "dt": 1781997083,
   "sys": {
     "type": 2,
     "id": 47737,
@@ -42,5 +42,5 @@
   "id": 112931,
   "name": "Tehran",
   "cod": 200,
-  "_last_updated_utc": "2026-06-20T21:20:40.268Z"
+  "_last_updated_utc": "2026-06-20T23:11:24.061Z"
 }
