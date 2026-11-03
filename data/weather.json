@@ -5,38 +5,35 @@
   },
   "weather": [
     {
-      "id": 500,
-      "main": "Rain",
-      "description": "light rain",
-      "icon": "10d"
+      "id": 801,
+      "main": "Clouds",
+      "description": "few clouds",
+      "icon": "02n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 18.73,
-    "feels_like": 17.76,
-    "temp_min": 18.73,
-    "temp_max": 18.99,
-    "pressure": 1018,
-    "humidity": 42,
-    "sea_level": 1018,
-    "grnd_level": 825
+    "temp": 14.99,
+    "feels_like": 14.19,
+    "temp_min": 14.99,
+    "temp_max": 14.99,
+    "pressure": 1020,
+    "humidity": 63,
+    "sea_level": 1020,
+    "grnd_level": 826
   },
   "visibility": 10000,
   "wind": {
-    "speed": 8.23,
-    "deg": 260
-  },
-  "rain": {
-    "1h": 0.17
+    "speed": 0,
+    "deg": 0
   },
   "clouds": {
     "all": 20
   },
-  "dt": 1793705819,
+  "dt": 1793733165,
   "sys": {
-    "type": 2,
-    "id": 47737,
+    "type": 1,
+    "id": 7464,
     "country": "IR",
     "sunrise": 1793674673,
     "sunset": 1793713066
@@ -45,5 +42,5 @@
   "id": 112931,
   "name": "Tehran",
   "cod": 200,
-  "_last_updated_utc": "2026-11-03T11:42:17.394Z"
+  "_last_updated_utc": "2026-11-03T19:14:23.134Z"
 }
