@@ -8,32 +8,32 @@
       "id": 501,
       "main": "Rain",
       "description": "moderate rain",
-      "icon": "10n"
+      "icon": "10d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 13.73,
-    "feels_like": 13.01,
-    "temp_min": 13.73,
-    "temp_max": 13.99,
-    "pressure": 1016,
-    "humidity": 71,
-    "sea_level": 1016,
+    "temp": 12.62,
+    "feels_like": 11.92,
+    "temp_min": 12.62,
+    "temp_max": 12.99,
+    "pressure": 1017,
+    "humidity": 76,
+    "sea_level": 1017,
     "grnd_level": 824
   },
-  "visibility": 10000,
+  "visibility": 9000,
   "wind": {
-    "speed": 4.12,
+    "speed": 2.06,
     "deg": 80
   },
   "rain": {
-    "1h": 2.14
+    "1h": 1.74
   },
   "clouds": {
     "all": 75
   },
-  "dt": 1794094138,
+  "dt": 1794114098,
   "sys": {
     "type": 2,
     "id": 47737,
@@ -45,5 +45,5 @@
   "id": 112931,
   "name": "Tehran",
   "cod": 200,
-  "_last_updated_utc": "2026-11-07T23:29:24.046Z"
+  "_last_updated_utc": "2026-11-08T05:03:12.108Z"
 }
